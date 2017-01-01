@@ -46,7 +46,7 @@ Those commands require a privileged user, privileged users are defined inside Ba
 ---------
 ☫developer Channel ☬ 
 ---------
-[![https://telegram.me/babeleon_b0t](https://img.shields.io/badge/☬Telegram-Channel bot-blue.svg)](https://telegram.me/babeleon_b0t)
+[![https://telegram.me/babeleon_bot](https://img.shields.io/badge/☬Telegram-Channel bot-blue.svg)](https://telegram.me/babeleon_b0t)
 ---------
 | [![@AD7six](http://s.gravatar.com/avatar/876a61b58a729fcf71048529885d64dc?s=90)](https://telegram.me/lock_at_me_now "Follow @lock_at_me_now on Telegram") |
 |---|
