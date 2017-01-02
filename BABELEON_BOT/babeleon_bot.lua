@@ -259,7 +259,7 @@ function create_config( )
 @lock_at_me_now 🔧😷
 
 My Telegram Channel 📡
-https://telegram.me/babeleon_b0t]],
+https://telegram.me/babeleon_bot]],
     help_text = [[📜 ⚡️B⊙T ＢＡＢＥＬＥＯＮΞ⚡️
 🔺➖🔻➖🔺➖🔻➖🔺➖🔻➖🔺ＢＡＢＥＬＥＯＮ
 
@@ -358,10 +358,10 @@ https://telegram.me/babeleon_b0t]],
 ⚓️ !umute gifs  👁‍🗨 لالغاء كتم الصور المتحركه
 
 🔺➖🔻➖🔺➖🔻➖🔺➖🔻➖🔺ＢＡＢＥＬＥＯＮ
-⚠️: /help  ⛔️   لمعرفه قوائم المساعده 
+⚠️: /kh  ⛔️   لمعرفه قوائم المساعده 
 #Developer 🕵
 
-#Dev @lock_at_me_now 🕵�
+#Dev @.....
 🌝🔌 الاوامر جميعها تعمل على   ‖… / … # … ! …‖]],
 	help_text_super =[[📜 ⚡️B⊙T ＢＡＢＥＬＥＯＮΞ⚡️
 🔺➖🔻➖🔺➖🔻➖🔺➖🔻➖🔺ＢＡＢＥＬＥＯＮ
@@ -423,10 +423,10 @@ https://telegram.me/babeleon_b0t]],
 ⭕️  !bot off  👁‍🗨 لأطفاء البوت في المجموعة
 
 🔺➖🔻➖🔺➖🔻➖🔺➖🔻➖🔺ＢＡＢＥＬＥＯＮ
-⚠️: /help  ⛔️   لمعرفه قوائم المساعده 
+⚠️: /kh  ⛔️   لمعرفه قوائم المساعده 
 #Developer 🕵
 
-#Dev @lock_at_me_now 🕵�
+#Dev @....
 🌝🔌 الاوامر جميعها تعمل على   ‖… / … # … ! …‖]],
 help_text_realm = [[📜 ⚡️B⊙T ＢＡＢＥＬＥＯＮΞ⚡️
 🔺➖🔻➖🔺➖🔻➖🔺➖🔻➖🔺ＢＡＢＥＬＥＯＮ
@@ -455,7 +455,7 @@ help_text_realm = [[📜 ⚡️B⊙T ＢＡＢＥＬＥＯＮΞ⚡️
 ⚠️:ملاحظة الاوامر تعمل ع نطاق استخدام ثلاث هي:  ‖… / … # … ! …‖
 #Developer 🕵
 
-#Dev @lock_at_me_now 🕵]],
+#Dev @.....]],
   }
   serialize_to_file(config, './data/config.lua')
   print('saved config into ./data/config.lua')
